@@ -1,0 +1,6 @@
+framework module cgm_shared_module {
+    umbrella header "cgm_shared_module.h"
+
+    export *
+    module * { export * }
+}
